@@ -16,6 +16,8 @@ public class Lamdafunctions {
         number.add(8);
         number.add(9);
         number.add(10);
+
+        ///
    System.out.println(number);
 //number.forEach((Integer Value)->System.out.println(Value));
 //        number.forEach((Value)->System.out.println(Value));
